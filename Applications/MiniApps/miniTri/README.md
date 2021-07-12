@@ -2,7 +2,7 @@
 
 **Description:** A simple, triangle-based data analytics proxy application.
 
-**URL:** https://github.com/Mantevo/minitr 
+**URL:** https://github.com/Mantevo/minitri 
 
 **Team:**  
 
